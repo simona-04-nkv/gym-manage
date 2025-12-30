@@ -8,10 +8,10 @@ The application allows basic management of gym members and their memberships.
 Simple ,user-friendly interface.
 
 ## Screenshots
-![Main Window](screenshots/main-window.png)  
-![Members Table](screenshots/members-table.png)  
-![Memberships Form](screenshots/memberships-form.png)
-![Memberships Form](screenshots/memberships-form.png)
+![Login Window](screenshots/Login.png)  
+![Main Window](screenshots/Main.png)  
+![Memberships Form](screenshots/Memberships.png)
+![Plans Form](screenshots/Plan.png)
 
 ## Notes
 This project is intended for educational purposes and demonstrates fundamental concepts of Java desktop development and database integration
